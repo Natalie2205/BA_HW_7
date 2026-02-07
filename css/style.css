@@ -1,0 +1,32 @@
+@import url(./_normalize.css);
+
+html, body {
+    font-family: 'Trebuchet MS', 'Trebuchet', 'Arial', sans-serif;
+    background: #E5E5E5;
+}
+
+.container {
+    max-width: 793px;
+    margin: 0 auto;
+}
+
+.header_container {
+    background: #4A4F56;
+    color: #FF8984;
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 12px;
+}
+
+.header h1 {
+    font-size: 24px;    
+    margin-bottom: 4px;
+    margin-top: 0;;
+}
+
+.header h2 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+
+}
